@@ -31,6 +31,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Build a complex object](https://blog.awesomesoftwareengineer.com/p/builder-pattern)
 - [Gracefully handle dynamic behaviors in the same category](https://blog.awesomesoftwareengineer.com/p/strategy-pattern)
 - [Avoid throwing exceptions as control flow](https://blog.awesomesoftwareengineer.com/p/throwing-exceptions-vs-control-flow)
+- [Backward Compatibility Thinking](https://blog.awesomesoftwareengineer.com/p/backward-compatibility-thinking)
 ## API Design
 - [Everything about RESTful API](https://blog.awesomesoftwareengineer.com/p/everything-about-restful-api)
 - [Let UI drive API design](https://blog.awesomesoftwareengineer.com/p/let-ui-drives-api-deisgn)
