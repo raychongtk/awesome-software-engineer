@@ -36,6 +36,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Everything about RESTful API](https://blog.awesomesoftwareengineer.com/p/everything-about-restful-api)
 - [Let UI drive API design](https://blog.awesomesoftwareengineer.com/p/let-ui-drives-api-deisgn)
 - [Designing API with the right granularity](https://blog.awesomesoftwareengineer.com/p/designing-api-with-the-right-granularity)
+- [How to handle API backward compatibility?](https://blog.awesomesoftwareengineer.com/p/how-to-handle-api-backward-compatibility)
 ## Security
 - [What is JWT?](https://blog.awesomesoftwareengineer.com/p/what-is-jwt)
 - [OAuth Explained](https://blog.awesomesoftwareengineer.com/p/oauth-explained)
