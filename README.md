@@ -22,6 +22,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [API vs Webhook](https://blog.awesomesoftwareengineer.com/p/api-vs-webhook)
 - [Understanding the software complexity](https://blog.awesomesoftwareengineer.com/p/software-complexity)
 - [Why do we need Webhook?](https://blog.awesomesoftwareengineer.com/p/why-do-we-need-webhook)
+- [Understanding system bottleneck](https://blog.awesomesoftwareengineer.com/p/understanding-system-bottleneck)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
