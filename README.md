@@ -52,8 +52,8 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Secure web application with CSP](https://blog.awesomesoftwareengineer.com/p/content-security-policy)
 - [What is two factors authentication?](https://blog.awesomesoftwareengineer.com/p/two-factors-authentication)
 - [How does an authenticator work?](https://blog.awesomesoftwareengineer.com/p/how-does-an-authenticator-work)
-## Trivial
 - [Hashing vs Encryption vs Encoding](https://blog.awesomesoftwareengineer.com/p/hashing-vs-encryption-vs-encoding)
+## Trivial
 - [Any problem in computer science can be solved by another layer of indirection](https://blog.awesomesoftwareengineer.com/p/solve-problem-by-adding-another-layer)
 - [Everything is a trade-off](https://blog.awesomesoftwareengineer.com/p/everything-is-a-trade-off)
 - [How do chatbots boost your productivity?](https://blog.awesomesoftwareengineer.com/p/chatbot-driven-development)
