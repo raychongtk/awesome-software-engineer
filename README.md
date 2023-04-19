@@ -59,3 +59,4 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Everything is a trade-off](https://blog.awesomesoftwareengineer.com/p/everything-is-a-trade-off)
 - [How do chatbots boost your productivity?](https://blog.awesomesoftwareengineer.com/p/chatbot-driven-development)
 - [3 non-technical books that influenced me](https://blog.awesomesoftwareengineer.com/p/3-non-technical-books-that-influenced)
+- [From chaos to clarity](https://blog.awesomesoftwareengineer.com/p/from-chaos-to-clarity)
