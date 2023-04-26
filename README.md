@@ -54,6 +54,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [What is two factors authentication?](https://blog.awesomesoftwareengineer.com/p/two-factors-authentication)
 - [How does an authenticator work?](https://blog.awesomesoftwareengineer.com/p/how-does-an-authenticator-work)
 - [Hashing vs Encryption vs Encoding](https://blog.awesomesoftwareengineer.com/p/hashing-vs-encryption-vs-encoding)
+- [SMS Pumping](https://blog.awesomesoftwareengineer.com/p/sms-pumping)
 ## Trivial
 - [Any problem in computer science can be solved by another layer of indirection](https://blog.awesomesoftwareengineer.com/p/solve-problem-by-adding-another-layer)
 - [Everything is a trade-off](https://blog.awesomesoftwareengineer.com/p/everything-is-a-trade-off)
