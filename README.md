@@ -25,6 +25,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Understanding system bottleneck](https://blog.awesomesoftwareengineer.com/p/understanding-system-bottleneck)
 - [What is Event Driven Architecture?](https://blog.awesomesoftwareengineer.com/p/what-is-event-driven-architecture-26f)
 - [Event-Driven Payment Architecture](https://blog.awesomesoftwareengineer.com/p/event-driven-payment-architecture)
+- [Boost API read performance by 10x with cache](https://blog.awesomesoftwareengineer.com/p/boost-api-read-performance-by-10x)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
