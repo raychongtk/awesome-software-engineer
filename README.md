@@ -26,6 +26,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [What is Event Driven Architecture?](https://blog.awesomesoftwareengineer.com/p/what-is-event-driven-architecture-26f)
 - [Event-Driven Payment Architecture](https://blog.awesomesoftwareengineer.com/p/event-driven-payment-architecture)
 - [Boost API read performance by 10x with cache](https://blog.awesomesoftwareengineer.com/p/boost-api-read-performance-by-10x)
+- [How does Lalamove scale its Communication Platform?](https://blog.awesomesoftwareengineer.com/p/how-does-lalamove-scale-its-communication)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
