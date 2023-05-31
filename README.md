@@ -28,6 +28,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Boost API read performance by 10x with cache](https://blog.awesomesoftwareengineer.com/p/boost-api-read-performance-by-10x)
 - [How does Lalamove scale its Communication Platform?](https://blog.awesomesoftwareengineer.com/p/how-does-lalamove-scale-its-communication)
 - [Redesign your development workflow with Mock Service](https://blog.awesomesoftwareengineer.com/p/redesign-development-workflow-with-mock-service)
+- [Architecting for Simplicity](https://blog.awesomesoftwareengineer.com/p/architecting-for-simplicity)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
