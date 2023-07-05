@@ -32,6 +32,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Architecture Mystery](https://blog.awesomesoftwareengineer.com/p/architecture-mystery)
 - [Consistency and Availability](https://blog.awesomesoftwareengineer.com/p/consistency-and-availability)
 - [Pub/Sub Practical Guide: Use Case](https://blog.awesomesoftwareengineer.com/p/pubsub-practical-guide-use-case)
+- [Pub/Sub Practical Guide: Trade-off](https://blog.awesomesoftwareengineer.com/p/pubsub-practical-guide-trade-off)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
