@@ -13,6 +13,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Microservices ecosystem](https://blog.awesomesoftwareengineer.com/p/microservices-ecosystem)
 - [The pains of microservices - Part 1](https://blog.awesomesoftwareengineer.com/p/the-pains-of-microservices-part-1)
 - [The pains of microservices - Part 2](https://blog.awesomesoftwareengineer.com/p/the-pains-of-microservices-part-2)
+- [Distributed tracing and distributed logging](https://blog.awesomesoftwareengineer.com/p/distributed-tracing-and-distributed)
 ## Architecture
 - [Understand Observability](https://blog.awesomesoftwareengineer.com/p/understand-observability)
 - [Log Monitoring and Alerting](https://blog.awesomesoftwareengineer.com/p/log-monitoring-and-alerting)
