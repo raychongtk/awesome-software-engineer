@@ -50,6 +50,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Avoid throwing exceptions as control flow](https://blog.awesomesoftwareengineer.com/p/throwing-exceptions-vs-control-flow)
 - [Backward Compatibility Thinking](https://blog.awesomesoftwareengineer.com/p/backward-compatibility-thinking)
 - [Backward compatibility trade-off](https://blog.awesomesoftwareengineer.com/p/backward-compatibility-trade-off)
+- [Design Space Optimization](https://blog.awesomesoftwareengineer.com/p/design-space-optimization)
 ## API Design
 - [Everything about RESTful API](https://blog.awesomesoftwareengineer.com/p/everything-about-restful-api)
 - [Let UI drive API design](https://blog.awesomesoftwareengineer.com/p/let-ui-drives-api-deisgn)
