@@ -39,6 +39,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Pub/Sub Practical Guide: Trade-off](https://blog.awesomesoftwareengineer.com/p/pubsub-practical-guide-trade-off)
 - [Why do we need architecture?](https://blog.awesomesoftwareengineer.com/p/why-do-we-need-architecture)
 - [Design for Adaptability](https://blog.awesomesoftwareengineer.com/p/design-for-adaptability)
+- [Exploring Architecture: What Does It Really Mean?](https://blog.awesomesoftwareengineer.com/p/exploring-architecture-what-does)
 ## Coding and Software Design
 - [Duplication is better than Wrong Abstraction](https://blog.awesomesoftwareengineer.com/p/duplication-is-better-than-wrong-abstraction)
 - [Design Principles: Simple is the best](https://blog.awesomesoftwareengineer.com/p/simple-is-the-best)
