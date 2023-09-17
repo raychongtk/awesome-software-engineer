@@ -6,7 +6,7 @@ Observability is used to describe your system state so the software engineers ca
 In a microservices architecture, log and trace are the important components. It helps software engineers to understand the current system behaviors and debugging. It can also be used to observe the application’s performance like the daily error rate of a specific core API, how people use your application, etc.
 
 Observability is mainly composed of the following 3 components:
-![](../assets/resources/understand-observability-1.png)
+![](../assets/resources/understand-observability/understand-observability-1.png)
 
 ### Logs
 A log is an event with some descriptive elements like timestamp, log id, trace id, message, severity level and etc. It tells people what is happening in a particular action. A log is commonly in Plaintext or Structured format:
@@ -23,7 +23,7 @@ Trace is a series of events that represents the end-to-end journey starting from
 ### Metrics
 Metric is aggregated data within a time series including timestamp, value, and other meaningful data. It can be a graph to describe system performance, daily error rate, traffic, etc.
 
-![](../assets/resources/understand-observability-2.png)
+![](../assets/resources/understand-observability/understand-observability-2.png)
 
 According to the diagram above, we can observe that a particular Trace is composed of many Spans. A trace can identify this whole series of actions that happened in the system and connect these spans together for better searching.
 
