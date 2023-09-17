@@ -2,7 +2,7 @@
     <h1>Awesome Software Engineer</h1>
     <img width="33%" src="./assets/awesome-software-engineer.png">
 </div>
-Awesome Software Engineer is a community to share software engineering topics and inspires software engineers. Check out my newsletter to receive the latest content: https://blog.awesomesoftwareengineer.com/
+Awesome Software Engineer is a community to share software engineering topics and inspires software engineers. Check out my newsletter to receive latest content: https://blog.awesomesoftwareengineer.com/
 
 # ⭐ Support
 If you like my content, please
