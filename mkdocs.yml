@@ -67,6 +67,7 @@ nav:
   - API vs Webhook: architecture/api-vs-webhook.md
   - Why Do We Need Webhook?: architecture/why-do-we-need-webhook?.md
   - Understand Software Complexity: architecture/understand-software-complexity.md
+  - Understand System Bottleneck: architecture/understand-system-bottleneck.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
