@@ -55,7 +55,7 @@ markdown_extensions:
       permalink: true
 
 nav:
-- Architecture: architecture.md
+- Architecture:
   - Understand Observability: architecture/understand-observability.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
