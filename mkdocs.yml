@@ -57,6 +57,7 @@ markdown_extensions:
 
 nav:
 - Newsletter: https://blog.awesomesoftwareengineer.com
+- Home: https://awesomesoftwareengineer.com
 - Architecture:
   - Understand Observability: architecture/understand-observability.md
   - Log Monitoring and Alerting: architecture/log-monitoring-and-alerting.md
