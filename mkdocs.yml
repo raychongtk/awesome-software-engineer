@@ -68,6 +68,7 @@ nav:
   - Why Do We Need Webhook?: architecture/why-do-we-need-webhook?.md
   - Understand Software Complexity: architecture/understand-software-complexity.md
   - Understand System Bottleneck: architecture/understand-system-bottleneck.md
+  - What is Event-driven Architecture?: architecture/what-is-event-driven-architecture?.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
