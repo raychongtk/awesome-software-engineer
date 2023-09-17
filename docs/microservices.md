@@ -1,0 +1,13 @@
+# Microservices
+- [Microservices Documentation](https://blog.awesomesoftwareengineer.com/p/centralize-microservices-api-documentation)
+- [The Path to Microservices: Opening Chapter](https://blog.awesomesoftwareengineer.com/p/the-path-to-microservices-opening)
+- [The Path to Microservices: What are Microservices?](https://blog.awesomesoftwareengineer.com/p/what-are-microservices)
+- [The Path to Microservices: Do You Really Need Microservices Architecture?](https://blog.awesomesoftwareengineer.com/p/do-you-need-microservices-architecture)
+- [The Path to Microservices: CAP Theorem](https://blog.awesomesoftwareengineer.com/p/cap-theorem)
+- [The Path to Microservices: Service Discovery](https://blog.awesomesoftwareengineer.com/p/service-discovery)
+- [The Path to Microservices: CI/CD](https://blog.awesomesoftwareengineer.com/p/microservice-ci-cd)
+- [The Path to Microservices: API Gateway Aggregation Pattern](https://blog.awesomesoftwareengineer.com/p/api-gateway-aggregation-pattern)
+- [Microservices ecosystem](https://blog.awesomesoftwareengineer.com/p/microservices-ecosystem)
+- [The pains of microservices - Part 1](https://blog.awesomesoftwareengineer.com/p/the-pains-of-microservices-part-1)
+- [The pains of microservices - Part 2](https://blog.awesomesoftwareengineer.com/p/the-pains-of-microservices-part-2)
+- [Distributed tracing and distributed logging](https://blog.awesomesoftwareengineer.com/p/distributed-tracing-and-distributed)
