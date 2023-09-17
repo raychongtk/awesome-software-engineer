@@ -7,8 +7,8 @@ Awesome Software Engineer is a community to share software engineering topics an
 # ⭐ Support
 If you like my content, please
 
-1. give this repository a star
-2. subscribe to my newsletter at Substack
+1. give this [repository](https://github.com/raychongtk/awesome-software-engineer) a star
+2. subscribe to my [newsletter](https://blog.awesomesoftwareengineer.com) at Substack
 3. share my content to your friends
 
-Thanks a lot for supporting me!
+Thanks for your support!
