@@ -39,12 +39,14 @@ To mitigate this problem, Delay Queue comes into play. We can introduce a delay 
 With a delay queue, we can put the created order into the queue with 20 mins delay time. A job handler will be listening to the queue to see if any order is available to consume. If now the order has been created for 20 mins, the job handler will get this order from the queue and search the order status in the database.
 
 There are 2 possible cases here:
+
 - Payment is already made, then ignore the order canceling flow.
 - Payment hasn’t been made, then run the order canceling flow.
 
 Now, we don’t need to scan the database frequently, especially in the zero new orders scenario. Also, we can get the order by primary key. Using the delay queue helps mitigate the pressure on the database.
 
 Possible delay queue solutions:
+
 - [Redis](https://redis.com/glossary/redis-queue/)
 - [RabbitMQ](https://blog.rabbitmq.com/posts/2015/04/scheduling-messages-with-rabbitmq)
 - [AWS SQS](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-delay-queues.html)
