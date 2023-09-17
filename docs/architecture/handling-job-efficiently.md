@@ -1,4 +1,4 @@
-# Handling Job Efficiently
+# Handling Jobs Efficiently
 Today, I’ll be covering a topic about background tasks in software development. It is so common that software engineers need to write code to trigger something automatically in different time intervals.
 
 Working in a backend system, you might need to deal with these scenarios:
