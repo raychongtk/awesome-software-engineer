@@ -4,7 +4,7 @@
 </div>
 Awesome Software Engineer is a community to share software engineering topics and inspires software engineers. Check out my website: https://blog.awesomesoftwareengineer.com/
 
-⭐ Support
+# ⭐ Support
 If you like my content, please 
 - give this repository a star
 - subscribe to my newsletter at Substack
