@@ -57,6 +57,8 @@ markdown_extensions:
 nav:
 - Architecture:
   - Understand Observability: architecture/understand-observability.md
+  - Log Monitoring and Alerting: architecture/log-monitoring-and-alerting.md
+  - 4 Popular Cache Patterns: architecture/4-popular-cache-patterns.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
