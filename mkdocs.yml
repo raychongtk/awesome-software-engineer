@@ -12,8 +12,6 @@ theme:
     - navigation.tracking
     - toc.integrate 
     - navigation.top
-    - navigation.tabs
-    - navigation.tabs.sticky
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
