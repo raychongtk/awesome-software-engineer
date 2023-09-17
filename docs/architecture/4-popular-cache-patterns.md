@@ -43,6 +43,6 @@ To mitigate the problems from the write-back pattern, simply we can combine the 
 
 > I was asked to solve a problem with a write-heavy scenario in an interview. It was related to frequent geolocation updates and the use case is writing a lot of user locations into the database frequently, because of frequent updates, the database becomes a bottleneck. I was using the write-back strategy to solve this problem back then because the use case does not need a real-time behavior. That said, latency is accepted in that situation, so the write-back strategy is one of the possible solutions for that.
 
-## References:
+## References
 - https://aws.amazon.com/blogs/database/amazon-dynamodb-accelerator-dax-a-read-throughwrite-through-cache-for-dynamodb/
 - https://ignite.apache.org/docs/latest/persistence/external-storage
