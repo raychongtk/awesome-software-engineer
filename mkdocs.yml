@@ -64,6 +64,7 @@ nav:
   - 4 Popular Cache Patterns: architecture/4-popular-cache-patterns.md
   - Cache Delete Strategy of Cache-aside Pattern: architecture/cache-delete-strategy.md
   - Handling Jobs Efficiently: architecture/handling-job-efficiently.md
+  - API vs Webhook: architecture/api-vs-webhook.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
