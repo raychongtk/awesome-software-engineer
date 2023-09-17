@@ -62,6 +62,7 @@ nav:
   - Understand Observability: architecture/understand-observability.md
   - Log Monitoring and Alerting: architecture/log-monitoring-and-alerting.md
   - 4 Popular Cache Patterns: architecture/4-popular-cache-patterns.md
+  - Cache Delete Strategy of Cache-aside Pattern: architecture/cache-delete-strategy.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
@@ -75,3 +76,5 @@ extra:
       link: https://www.linkedin.com/in/raychongtk
     - icon: fontawesome/brands/github-alt
       link: https://github.com/raychongtk
+    - icon: fontawesome/brands/substack
+      link: https://blog.awesomesoftwareengineer.com
