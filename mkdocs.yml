@@ -83,7 +83,11 @@ nav:
   - Pub/Sub Practical Guide - Trade Off: architecture/pubsub-practical-guide-trade-off.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
-- API Design: api-design.md
+- API Design:
+  - Everything about RESTful API: api-design/everything-about-restful-api.md
+  - Let UI Drive API Design: api-design/let-ui-drive-api-design.md
+  - Designing API with the Right Granularity: api-design/designing-api-with-the-right-granularity.md
+  - How to Handle API Backward Compatibility?: api-design/how-to-handle-api-backward-compatibility?.md
 - Security: security.md
 - General Software Engineering: general-software-engineering.md
 
