@@ -77,7 +77,7 @@ nav:
   - Architecture Mystery: architecture/architecture-mystery.md
   - Why Do We Need Architecture?: architecture/why-do-we-need-architecture?.md
   - Design for Adaptability: architecture/design-for-adaptability.md
-  - Exploring Architetcure: What Does It Really Mean?: architecture/exploring-architetcure.md
+  - Exploring Architetcure - What Does It Really Mean?: architecture/exploring-architetcure.md
   - Consistency and Availability: architecture/consistency-vs-availability.md
   - Pub/Sub Practical Guide - Use Case: architecture/pubsub-practical-guide-use-case.md
   - Pub/Sub Practical Guide - Trade Off: architecture/pubsub-practical-guide-trade-off.md
