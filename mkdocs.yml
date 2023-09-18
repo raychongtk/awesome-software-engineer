@@ -69,6 +69,7 @@ nav:
   - Understand Software Complexity: architecture/understand-software-complexity.md
   - Understand System Bottleneck: architecture/understand-system-bottleneck.md
   - What is Event-driven Architecture?: architecture/what-is-event-driven-architecture?.md
+  - Payment Event-driven Architecture: architecture/event-driven-payment-architecture.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md
