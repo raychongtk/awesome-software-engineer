@@ -4,7 +4,8 @@ Today, I’ll be covering the topic of RESTful API design. In this post, I will 
 RESTful is an API development style that focuses on resources. Compared to the RPC style, there is a difference between these two approaches. RESTful is a resource-based style while RPC is an action-based style. For example, if you want to delete a user, your API might look like this:
 
 >RESTful: /api/user/1 with HTTP method DELETE
-RPC: ?action=deleteUser&id=1 with HTTP method POST/GET
+>
+>RPC: ?action=deleteUser&id=1 with HTTP method POST/GET
 
 Personally, I think RESTful is more clean and simple compared to RPC. The core concept of RESTful is that using the HTTP methods to replace the action verb and the URL path can focus on the resource itself. If the APIs are related to CRUD (create, read, update, delete), then RESTful will be your best friend. Because RESTful is a CRUD-friendly and resource-oriented development style.
 
