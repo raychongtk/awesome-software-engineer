@@ -70,6 +70,17 @@ nav:
   - Understand System Bottleneck: architecture/understand-system-bottleneck.md
   - What is Event-driven Architecture?: architecture/what-is-event-driven-architecture?.md
   - Payment Event-driven Architecture: architecture/event-driven-payment-architecture.md
+  - Boost API Read Performance by 10x with Cache: architecture/boost-api-read-performance-by-10x-with-cache.md
+  - How Does Lalamove Scale Its Communication Platform?: architecture/how-does-lalamove-scale-its-communication-platform?.md
+  - Redeisn Your Development Workflow with Mock Service: architecture/mock-service.md
+  - Architecting for Simplicity: architecture/architecting-for-simplicity.md
+  - Architecture Mystery: architecture/architecture-mystery.md
+  - Why Do We Need Architecture?: architecture/why-do-we-need-architecture?.md
+  - Design for Adaptability: architecture/design-for-adaptability.md
+  - Exploring Architetcure: What Does It Really Mean?: architecture/exploring-architetcure.md
+  - Consistency and Availability: architecture/consistency-vs-availability.md
+  - Pub/Sub Practical Guide - Use Case: architecture/pubsub-practical-guide-use-case.md
+  - Pub/Sub Practical Guide - Trade Off: architecture/pubsub-practical-guide-trade-off.md
 - Microservices: microservices.md
 - Coding and Software Design: coding-and-software-design.md
 - API Design: api-design.md

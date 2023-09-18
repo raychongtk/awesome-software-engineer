@@ -1,11 +1,11 @@
-# How does Lalamove Scale Its Communication Platform?
+# How Does Lalamove Scale Its Communication Platform?
 
 ## Introduction
 The communication platform acts as an important role in the Lalamove ecosystem in communicating with Lalamove’s users through various communication channels. Lalamove sends out hundreds of millions of communication monthly to communicate with Lalamove’s users through various communication channels such as SMS, Email, and Push. Our goal is to provide a scalable, state-of-the-art, and cost-effective omnichannel communication platform to boost engineering and operational efficiency for our internal teams.
 
 However, we have identified several challenges from both business and engineering viewpoints within our current communication platform. To gain a better understanding of these challenges, it is necessary to examine our legacy architecture.
 
-# Challenge
+## Challenge
 
 ![](../assets/resources/architecture/lalamove-1.png)
 
