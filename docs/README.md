@@ -13,7 +13,6 @@ If you like my content, please
 
 Thanks for your support!
 
-
+<center>
 <iframe src="https://blog.awesomesoftwareengineer.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
-<br>
-<a href="https://github.com/raychongtk/awesome-software-engineer"><img src="https://github-link-card.s3.ap-northeast-1.amazonaws.com/raychongtk/awesome-software-engineer.png" width="460px"></a>
+</center>
