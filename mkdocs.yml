@@ -71,7 +71,16 @@ nav:
   - Pub/Sub Practical Guide - Use Case: architecture/pubsub-practical-guide-use-case.md
   - Pub/Sub Practical Guide - Trade Off: architecture/pubsub-practical-guide-trade-off.md
 - Microservices: microservices.md
-- Coding and Software Design: coding-and-software-design.md
+- Software Design:
+  - Prefer Duplication over Wrong Abstraction: software-design/prefer-duplication-over-wrong-abstraction.md
+  - Simple is the best: software-design/simple-is-the-best.md
+  - Choose the right way to create objects: software-design/choose-the-right-way-to-create-objects.md
+  - Build a complex object: software-design/build-a-complex-object.md
+  - Gracefully handle dynamic behaviors in the same category: software-design/gracefully-handle-dynamic-behavior.md
+  - Avoid throwing exception as control flow: software-design/avoid-throwing-expcetion-as-control-flow.md
+  - Backward compatible thinking: software-design/backward-compatible-thinking.md
+  - Backward compatibility trade off: software-design/backward-compatibility-trade-off.md
+  - Design Space Optimization: software-design/design-space-optimization.md
 - API Design:
   - Everything about RESTful API: api-design/everything-about-restful-api.md
   - Let UI Drive API Design: api-design/let-ui-drive-api-design.md
@@ -82,6 +91,9 @@ nav:
   - Enhancing API Performance Through Batch Requests: api-design/optimize-api-via-batch-requests.md
 - Security: security.md
 - General Software Engineering: general-software-engineering.md
+- Code Review:
+  - Code Author Journey: code-review/author-journey.md
+  - Reviewer Journey: code-review/reviewer-journey.md
 
 copyright: 2023 <a href="https://github.com/raychongtk">Ray Chong</a>.
 extra:
