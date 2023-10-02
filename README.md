@@ -59,6 +59,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [How to handle API backward compatibility?](https://blog.awesomesoftwareengineer.com/p/how-to-handle-api-backward-compatibility)
 - [Improve performance when retrieving large dataset](https://blog.awesomesoftwareengineer.com/p/improve-performance-when-retrieving)
 - [Do you use pagination right?](https://blog.awesomesoftwareengineer.com/p/do-you-use-pagination-right)
+- [Enhancing API Performance Through Batch Requests](https://blog.awesomesoftwareengineer.com/p/enhancing-api-performance-through)
 ## Security
 - [What is JWT?](https://blog.awesomesoftwareengineer.com/p/what-is-jwt)
 - [OAuth Explained](https://blog.awesomesoftwareengineer.com/p/oauth-explained)
