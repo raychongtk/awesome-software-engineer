@@ -38,9 +38,12 @@ We deploy our code to production with new logic that depends on D and E. After d
 What? Why?
 
 I started tracing our code and turns out I found that the problem happen because of caching. Here is the workflow of the code:
-1. The app tries to get the data either from the cache or the database by using the Cache-aside pattern. (Cache Patterns)
+1. The app tries to get the data either from the cache or the database by using the Cache-aside pattern
+   
 2. The data exists in the cache and is read from the cache
+
 3. Remember, we don’t have D and E in the cache 😨
+
 4. We use D and E in our code for some logical decision and turns out it causes NullPointerException 😰😱
 
 Imagine if your system needs to serve a large number of requests and now all the requests come and it fails. It can be terrible.😣 
