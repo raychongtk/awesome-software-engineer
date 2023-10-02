@@ -90,6 +90,7 @@ nav:
   - How to Handle API Backward Compatibility?: api-design/how-to-handle-api-backward-compatibility?.md
   - Improve Performance When Retrieving Large Dataset: api-design/improve-performance-when-retrieving-large-dataset.md
   - Do You Use Pagination Right?: api-design/do-you-use-pagination-right?.md
+  - Enhancing API Performance Through Batch Requests: api-design/optimize-api-via-batch-requests.md
 - Security: security.md
 - General Software Engineering: general-software-engineering.md
 
