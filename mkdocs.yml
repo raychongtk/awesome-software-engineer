@@ -17,7 +17,7 @@ theme:
   titles_only: False
   sticky_navigation: True
   palette:
-    primary: custom
+    primary: black
 markdown_extensions:
   - smarty
   - sane_lists
