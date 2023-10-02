@@ -38,6 +38,7 @@ We deploy our code to production with new logic that depends on D and E. After d
 What? Why?
 
 I started tracing our code and turns out I found that the problem happen because of caching. Here is the workflow of the code:
+
 1. The app tries to get the data either from the cache or the database by using the Cache-aside pattern
    
 2. The data exists in the cache and is read from the cache
