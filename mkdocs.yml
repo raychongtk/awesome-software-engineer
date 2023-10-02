@@ -7,7 +7,8 @@ repo_url: https://github.com/raychongtk/awesome-software-engineer
 edit_uri: edit/main/docs/
 theme: 
   name: material 
-  logo: assets/awesome-software-engineer.png
+  custom_dir: overrides
+  logo: assets/awesome-software-engineer-1.png
   features:
     - navigation.instant
     - navigation.tracking
@@ -17,6 +18,8 @@ theme:
   navigation_depth: 4
   titles_only: False
   sticky_navigation: True
+  palette:
+    primary: custom
 markdown_extensions:
   - smarty
   - sane_lists
