@@ -4,7 +4,8 @@ site_description: Share practical software engineering skills including backend,
 docs_dir: 
 repo_name: raychongtk/awesome-software-engineer
 repo_url: https://github.com/raychongtk/awesome-software-engineer
-edit_uri: edit/main/docs/
+extra_css:
+  - stylesheets/extra.css
 theme: 
   name: material 
   logo: assets/awesome-software-engineer-1.png
