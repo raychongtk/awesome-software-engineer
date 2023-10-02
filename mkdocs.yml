@@ -6,8 +6,7 @@ repo_name: raychongtk/awesome-software-engineer
 repo_url: https://github.com/raychongtk/awesome-software-engineer
 theme: 
   name: material 
-  extra_css:
-    - stylesheets/extra.css
+  extra_css: [extra.css]
   features:
     - navigation.instant
     - navigation.tracking
