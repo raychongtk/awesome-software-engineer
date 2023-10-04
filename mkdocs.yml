@@ -90,7 +90,16 @@ nav:
   - Do You Use Pagination Right?: api-design/do-you-use-pagination-right?.md
   - Enhancing API Performance Through Batch Requests: api-design/optimize-api-via-batch-requests.md
 - Security: security.md
-- General Software Engineering: general-software-engineering.md
+- Software Engineering Mindset:
+  - Any problem in computer science can be solved by another layer of indirection: mindset/indirection.md
+  - Everything is a trade-off: mindset/everything-is-a-trade-off.md
+  - Design Thinking: From Choas to Clarity: mindset/design-thinking.md
+  - Tips for writing good documentation: mindset/writing-tips.md
+  - How Do You Delegate Task To Others?: mindset/how-do-you-delegate-task?.md
+  - Navigating Complex Problem Spaces: Breakdown and Direction: mindset/direction.md
+- General: 
+  - Chatbot-driven Development: general/chatbot-driven-development.md
+  - 3 non-technical books that influenced me: general/book-recomendation-1.md
 - Code Review:
   - Code Author Journey: code-review/author-journey.md
   - Reviewer Journey: code-review/reviewer-journey.md
