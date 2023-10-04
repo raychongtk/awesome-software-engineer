@@ -35,6 +35,7 @@ In my opinion, when asking questions, ChatGPT can summarize the answer and give 
 Also, its ability for refactoring code is also good if you can give it some concrete commands. But if you don’t have the skill to judge whether its answer is correct or not, it might have a problem when using it. So, I think building a good software engineering foundation is still important for software engineers. (To build a good software engineering foundation, you can subscribe to Awesome Software Engineer💡) 
 
 ChatGPT is a tool to help you do better instead of replacing you. In reality, companies still need humans to judge whether the code is correct but ChatGPT can give software engineers some insights into software engineering topics. If software engineers use this tool correctly, I am pretty sure that ChatGPT can boost engineers’ productivity in solving some common problems in the software engineering area.
+
 ![](../assets/resources/general/chatbot-6.png)
 
 <br>
