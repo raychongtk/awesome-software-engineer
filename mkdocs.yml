@@ -93,7 +93,7 @@ nav:
 - Software Engineering Mindset:
   - Any problem in computer science can be solved by another layer of indirection: mindset/indirection.md
   - Everything is a trade-off: mindset/everything-is-a-trade-off.md
-  - Design Thinking: From Choas to Clarity: mindset/design-thinking.md
+  - Design Thinking: mindset/design-thinking.md
   - Tips for writing good documentation: mindset/writing-tips.md
   - How Do You Delegate Task To Others?: mindset/how-do-you-delegate-task?.md
   - Navigating Complex Problem Spaces: Breakdown and Direction: mindset/direction.md
