@@ -1,7 +1,8 @@
 # Any problem in computer science can be solved by another layer of indirection 
->David Wheeler: Any problem in computer science can be solved by another layer of indirection.
 
 ![](../assets/resources/general/indirection.png)
+
+> David Wheeler: Any problem in computer science can be solved by another layer of indirection.
 
 Recently, I saw this quote on the internet, and it is really inspiring. I started thinking if this quote is really valid. Actually, Indirection means adding an extra layer. This technique is to decouple the dependency between the client and the target. To verify the idea, I defined several scenarios, and let's take the following examples to validate if the idea is really valid.
 
