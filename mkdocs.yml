@@ -100,6 +100,7 @@ nav:
 - General: 
   - Chatbot-driven Development: general/chatbot-driven-development.md
   - 3 non-technical books that influenced me: general/book-recomendation-1.md
+  - Serialization vs Parallelization: general/serialization-vs-parallelization.md
 - Code Review:
   - Code Author Journey: code-review/author-journey.md
   - Reviewer Journey: code-review/reviewer-journey.md
