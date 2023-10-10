@@ -83,6 +83,7 @@ Awesome Software Engineer is a community to share software engineering topics an
 - [Tips for writing good documentation](https://blog.awesomesoftwareengineer.com/p/tips-for-writing-good-documentation)
 - [Navigating Complex Problem Spaces: Breakdown and Direction](https://blog.awesomesoftwareengineer.com/p/navigating-complex-problem-spaces)
 - [How do you delegate your tasks to others?](https://blog.awesomesoftwareengineer.com/p/how-do-you-delegate-your-tasks-to)
+- [Serialization vs Parallelization](https://blog.awesomesoftwareengineer.com/p/serialization-vs-parallelization)
 
 <br>
 <center>
